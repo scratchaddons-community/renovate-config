@@ -1,5 +1,5 @@
 {
 	"extends": [
-		"github>cobaltt7/renovate:org-inherited-config"
+		"github>cobaltt7/renovate-config:org-inherited-config"
 	]
 }
